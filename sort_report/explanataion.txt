@@ -1,0 +1,5 @@
+Bubble sort takes the longest as it is not very efficent
+as it utilizes nested loops.
+
+The second longest is operator[], 
+because it is being called by bubble sort.
