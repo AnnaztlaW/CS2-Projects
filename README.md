@@ -1,2 +1,3 @@
 # CS2-Projects
 This is a collection of projects from Computer Science II:Data Structures and Abstraction (cs23001) at Kent State class taken in spring 2024.
+There are generally two forms of files present, labs and projects. Labs are the smaller forms of code used for practice and explanation of material. While the projects are the larger files (bigint, string, assembler, and profiler ), that were more long term creation and learning tools for implementing mutilple course topics.
